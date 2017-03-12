@@ -1,0 +1,3 @@
+so first we will implement the stack  
+
+1.
